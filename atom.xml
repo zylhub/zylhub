@@ -3,11 +3,11 @@
   <title>码上的生活</title>
   
   
-  <link href="http://blog.zyl.pw/atom.xml" rel="self"/>
+  <link href="http://www.zyl.pw/atom.xml" rel="self"/>
   
-  <link href="http://blog.zyl.pw/"/>
+  <link href="http://www.zyl.pw/"/>
   <updated>2021-07-25T14:00:40.932Z</updated>
-  <id>http://blog.zyl.pw/</id>
+  <id>http://www.zyl.pw/</id>
   
   <author>
     <name>zylhub</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hello</title>
-    <link href="http://blog.zyl.pw/2021/07/25/hello/"/>
-    <id>http://blog.zyl.pw/2021/07/25/hello/</id>
+    <link href="http://www.zyl.pw/2021/07/25/hello/"/>
+    <id>http://www.zyl.pw/2021/07/25/hello/</id>
     <published>2021-07-25T14:00:40.000Z</published>
     <updated>2021-07-25T14:00:40.932Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.zyl.pw/2021/05/04/hello-world/"/>
-    <id>http://blog.zyl.pw/2021/05/04/hello-world/</id>
+    <link href="http://www.zyl.pw/2021/05/04/hello-world/"/>
+    <id>http://www.zyl.pw/2021/05/04/hello-world/</id>
     <published>2021-05-04T09:00:03.319Z</published>
     <updated>2021-05-04T09:20:52.595Z</updated>
     
